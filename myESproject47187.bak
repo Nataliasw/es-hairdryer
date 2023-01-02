@@ -1,0 +1,116 @@
+// ES-Builder BProject backup
+ae53e0fa374492704909659bd71c61c8
+{"0":"47187","ESID":"47187","1":"19048","Creator":"19048","2":"2023-01-03 00:23:59","Created":"2023-01-03 00:23:59","3":"SE Wyb\u00f3r suszarki","Title":"SE Wyb\u00f3r suszarki","4":"Unknown UofD","UofD":"Unknown UofD","5":"Helping to find most suitable hairdryer for the customer. \/\/ Pomaga wybra\u0107 najlepiej pasuj\u0105c\u0105 suszark\u0119 do w\u0142os\u00f3w na podstawie udzielonych odpowiedzi.","ESNotes":"Helping to find most suitable hairdryer for the customer. \/\/ Pomaga wybra\u0107 najlepiej pasuj\u0105c\u0105 suszark\u0119 do w\u0142os\u00f3w na podstawie udzielonych odpowiedzi.","6":"Suszarka","ConcName":"Suszarka","7":"imgur.com\/a\/6xUMGwk","ESImage":"imgur.com\/a\/6xUMGwk","8":"Start","StartLine":"Start","9":"2023-01-03 04:13:57","Updated":"2023-01-03 04:13:57","10":"0","Public":"0","11":"0","UseCF":"0","12":"1","CFType":"1","13":"2023-01-03","TestDate":"2023-01-03","14":"1","gSearch":"1"}
+{"NodeID":"1","ESID":"47187","Parent":"0","NodeType":"Attribute","NodeName":"Cena","NodeText":"Cena","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"2","ESID":"47187","Parent":"1","NodeType":"Value","NodeName":"poni\u017cej 100","NodeText":"poni\u017cej 100 z\u0142","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"3","ESID":"47187","Parent":"1","NodeType":"Value","NodeName":"100-250","NodeText":"100-250z\u0142","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"4","ESID":"47187","Parent":"1","NodeType":"Value","NodeName":"powy\u017cej 250","NodeText":"powy\u017cej 250z\u0142","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"5","ESID":"47187","Parent":"2","NodeType":"Attribute","NodeName":"Dyfuzor","NodeText":"Czy powinien posiada\u0107 dyfuzor?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"6","ESID":"47187","Parent":"5","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"7","ESID":"47187","Parent":"5","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"8","ESID":"47187","Parent":"7","NodeType":"Attribute","NodeName":"Jonizacja","NodeText":"Czy powinna by\u0107 z jonizacj\u0105?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"9","ESID":"47187","Parent":"6","NodeType":"Attribute","NodeName":"Jonizacja","NodeText":"Czy powinna  by\u0107 z jonizacj\u0105?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"10","ESID":"47187","Parent":"9","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"11","ESID":"47187","Parent":"9","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"12","ESID":"47187","Parent":"8","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"13","ESID":"47187","Parent":"8","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"14","ESID":"47187","Parent":"10","NodeType":"Attribute","NodeName":"Zimny nadmuch","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 zimnego nadmuchu?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"15","ESID":"47187","Parent":"14","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"16","ESID":"47187","Parent":"14","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"17","ESID":"47187","Parent":"11","NodeType":"Attribute","NodeName":"Zimny nadmuch","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 zimnego nadmuchu?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"18","ESID":"47187","Parent":"17","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"19","ESID":"47187","Parent":"17","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"20","ESID":"47187","Parent":"18","NodeType":"Conclusion","NodeName":"brak","NodeText":"BABYLISS D563DE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"60","ESID":"47187","Parent":"48","NodeType":"Conclusion","NodeName":"BRAUN HD 350","NodeText":"BRAUN HD 350","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"21","ESID":"47187","Parent":"13","NodeType":"Attribute","NodeName":"Zimny nadmuch","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 zimnego nadmuchu?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"22","ESID":"47187","Parent":"21","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"23","ESID":"47187","Parent":"21","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"24","ESID":"47187","Parent":"23","NodeType":"Conclusion","NodeName":"BABYLISS 5344E","NodeText":"BABYLISS 5344E","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"25","ESID":"47187","Parent":"15","NodeType":"Conclusion","NodeName":"\u0141UCZNIK HD-410","NodeText":"Suszarko-szczotka ADLER AD 2023","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"26","ESID":"47187","Parent":"16","NodeType":"Conclusion","NodeName":"Scarlett SC-HD70I40","NodeText":"Suszarka PROFICAER PC-HT 3010","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"27","ESID":"47187","Parent":"19","NodeType":"Conclusion","NodeName":"REMINGTON On The Go D1500","NodeText":"Brak suszarek o podanych parametrach","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"28","ESID":"47187","Parent":"12","NodeType":"Attribute","NodeName":"Zimny nadmuch","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 zimnego nadmuchu?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"29","ESID":"47187","Parent":"28","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"30","ESID":"47187","Parent":"28","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"31","ESID":"47187","Parent":"29","NodeType":"Conclusion","NodeName":"Suszarko-szczotka ADLER AD 2023","NodeText":"Suszarko-szczotka ADLER AD 2023","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"32","ESID":"47187","Parent":"30","NodeType":"Conclusion","NodeName":"Suszarka PROFICAER PC-HT 3010","NodeText":"Suszarka PROFICAER PC-HT 3010","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"33","ESID":"47187","Parent":"22","NodeType":"Conclusion","NodeName":"Suszarka PHILIPS BHC010\/10","NodeText":"Suszarka PHILIPS BHC010\/10","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"34","ESID":"47187","Parent":"3","NodeType":"Attribute","NodeName":"Jonizacja","NodeText":"Czy powinna by\u0107 z jonizacj\u0105?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"35","ESID":"47187","Parent":"34","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"36","ESID":"47187","Parent":"34","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"37","ESID":"47187","Parent":"35","NodeType":"Attribute","NodeName":"Dyfuzor","NodeText":"Czy powinna posiada\u0107 dyfuzor?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"38","ESID":"47187","Parent":"36","NodeType":"Attribute","NodeName":"Dyfuzor","NodeText":"Czy powinna posiada\u0107 dyfuzor?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"39","ESID":"47187","Parent":"37","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"40","ESID":"47187","Parent":"37","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"41","ESID":"47187","Parent":"38","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"42","ESID":"47187","Parent":"38","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"43","ESID":"47187","Parent":"39","NodeType":"Attribute","NodeName":"Funkcja turbo","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 turbo?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"44","ESID":"47187","Parent":"40","NodeType":"Attribute","NodeName":"Funkcja turbo","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 turbo?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"45","ESID":"47187","Parent":"43","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"46","ESID":"47187","Parent":"43","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"47","ESID":"47187","Parent":"44","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"48","ESID":"47187","Parent":"44","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"49","ESID":"47187","Parent":"46","NodeType":"Attribute","NodeName":"Czujnik nadmierne ciep\u0142o","NodeText":"Czy powinna posiada\u0107 czujnik wykrywaj\u0105cy nadmierne ciep\u0142o?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"50","ESID":"47187","Parent":"49","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"51","ESID":"47187","Parent":"49","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"52","ESID":"47187","Parent":"50","NodeType":"Conclusion","NodeName":"PHILIPS BHD530\/00 Thermoshield","NodeText":"PHILIPS BHD530\/00 Thermoshield","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"53","ESID":"47187","Parent":"41","NodeType":"Attribute","NodeName":"Funkcja turbo","NodeText":"Czy powinna posiada\u0107 opcj\u0119 turbo?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"54","ESID":"47187","Parent":"53","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"55","ESID":"47187","Parent":"53","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"56","ESID":"47187","Parent":"42","NodeType":"Attribute","NodeName":"Funkcja turbo","NodeText":"Czy powinna posiada\u0107 opcj\u0119 turbo?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"57","ESID":"47187","Parent":"56","NodeType":"Value","NodeName":"Tak","NodeText":"Czy powinna posiada\u0107 opcj\u0119 turbo?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"58","ESID":"47187","Parent":"56","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"59","ESID":"47187","Parent":"54","NodeType":"Conclusion","NodeName":"BABYLISS D563DE","NodeText":"BABYLISS D563DE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"61","ESID":"47187","Parent":"51","NodeType":"Conclusion","NodeName":"ROWENTA CV5831","NodeText":"ROWENTA CV5831","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"62","ESID":"47187","Parent":"45","NodeType":"Conclusion","NodeName":"REMINGTON Pro-Air Turbo D5226","NodeText":"REMINGTON Pro-Air Turbo D5226","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"63","ESID":"47187","Parent":"58","NodeType":"Conclusion","NodeName":"BEAUTYME HD501","NodeText":"BEAUTYME HD501","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"64","ESID":"47187","Parent":"47","NodeType":"Conclusion","NodeName":"Remington AC7100 SUPERCARE PRO 2100","NodeText":"Remington AC7100 SUPERCARE PRO 2100","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"65","ESID":"47187","Parent":"55","NodeType":"Conclusion","NodeName":"ROWENTA Motion Dry CV5705","NodeText":"ROWENTA Motion Dry CV5705","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"66","ESID":"47187","Parent":"57","NodeType":"Conclusion","NodeName":"REMINGTON D5000","NodeText":"REMINGTON D5000","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"67","ESID":"47187","Parent":"4","NodeType":"Attribute","NodeName":"Moc","NodeText":"Moc","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"68","ESID":"47187","Parent":"67","NodeType":"Value","NodeName":"wi\u0119cej ni\u017c 2000W","NodeText":"wi\u0119cej ni\u017c 2000W","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"69","ESID":"47187","Parent":"67","NodeType":"Value","NodeName":"2000W i mniej","NodeText":"2000W i mniej","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"70","ESID":"47187","Parent":"68","NodeType":"Attribute","NodeName":"Liczba zakres\u00f3w temperatury","NodeText":"Liczba zakres\u00f3w temperatury","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"71","ESID":"47187","Parent":"70","NodeType":"Value","NodeName":"2","NodeText":"2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"72","ESID":"47187","Parent":"70","NodeType":"Value","NodeName":"3 i wi\u0119cej","NodeText":"3 i wi\u0119cej","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"73","ESID":"47187","Parent":"71","NodeType":"Conclusion","NodeName":" BABYLISS 6715DE","NodeText":" BABYLISS 6715DE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"74","ESID":"47187","Parent":"72","NodeType":"Attribute","NodeName":"Funkcja regulacji mocy nadmuchu i temperatury","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 regulacji mocy nadmuchu i temperatury?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"75","ESID":"47187","Parent":"74","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"76","ESID":"47187","Parent":"74","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"77","ESID":"47187","Parent":"75","NodeType":"Conclusion","NodeName":"BABYLISS 6750DE","NodeText":"BABYLISS 6750DE","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"78","ESID":"47187","Parent":"76","NodeType":"Attribute","NodeName":"Funkcja Advanced Care dla ochrony w\u0142os\u00f3w","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 Advanced Care dla ochrony w\u0142os\u00f3w?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"79","ESID":"47187","Parent":"78","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"80","ESID":"47187","Parent":"78","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"81","ESID":"47187","Parent":"79","NodeType":"Conclusion","NodeName":"ROWENTA Ultimate Experience White CV9240","NodeText":"ROWENTA Ultimate Experience White CV9240","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"82","ESID":"47187","Parent":"69","NodeType":"Attribute","NodeName":"Liczba zakres\u00f3w temperatury","NodeText":"Liczba zakres\u00f3w temperatury","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"83","ESID":"47187","Parent":"82","NodeType":"Value","NodeName":"2","NodeText":"2","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"84","ESID":"47187","Parent":"82","NodeType":"Value","NodeName":"3 i wi\u0119cej","NodeText":"3 i wi\u0119cej","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"85","ESID":"47187","Parent":"84","NodeType":"Attribute","NodeName":"Jonizacja dodatnia i ujemna","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 jonizacji dodatniej i ujemnej?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"86","ESID":"47187","Parent":"85","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"87","ESID":"47187","Parent":"85","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"88","ESID":"47187","Parent":"86","NodeType":"Conclusion","NodeName":"ROWENTA Maestra Ultimate Experience CV9920F0","NodeText":"ROWENTA Maestra Ultimate Experience CV9920F0","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"89","ESID":"47187","Parent":"87","NodeType":"Attribute","NodeName":"Zapami\u0119tywanie ustawie\u0144 pracy","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 zapami\u0119tywania ustawie\u0144 pracy?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"90","ESID":"47187","Parent":"89","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"91","ESID":"47187","Parent":"89","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"92","ESID":"47187","Parent":"90","NodeType":"Conclusion","NodeName":"CECOTEC Ioni Care 6000 Rockstar Soft","NodeText":"CECOTEC Ioni Care 6000 Rockstar Soft","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"93","ESID":"47187","Parent":"83","NodeType":"Attribute","NodeName":"Kolor","NodeText":"Kolor","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"94","ESID":"47187","Parent":"93","NodeType":"Value","NodeName":"Niebieski","NodeText":"Niebieski","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"95","ESID":"47187","Parent":"93","NodeType":"Value","NodeName":"Bia\u0142y","NodeText":"Bia\u0142y","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"96","ESID":"47187","Parent":"93","NodeType":"Value","NodeName":"Czarny","NodeText":"Czarny","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"100","ESID":"47187","Parent":"96","NodeType":"Attribute","NodeName":"Funkcja turbo","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 turbo?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"98","ESID":"47187","Parent":"94","NodeType":"Conclusion","NodeName":"LAIFEN Retro Niebieski","NodeText":"LAIFEN Retro Niebieski","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"99","ESID":"47187","Parent":"95","NodeType":"Conclusion","NodeName":" LAIFEN Retro Bia\u0142y","NodeText":" LAIFEN Retro Bia\u0142y","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"101","ESID":"47187","Parent":"100","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"102","ESID":"47187","Parent":"100","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"103","ESID":"47187","Parent":"102","NodeType":"Conclusion","NodeName":"LAIFEN Retro Czarny","NodeText":"LAIFEN Retro Czarny","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"104","ESID":"47187","Parent":"101","NodeType":"Conclusion","NodeName":"ROIDMI A100 Hair Dryer Czarny","NodeText":"ROIDMI A100 Hair Dryer Czarny","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"107","ESID":"47187","Parent":"91","NodeType":"Attribute","NodeName":"Funkcja turbo","NodeText":"Czy powinna posiada\u0107 funkcj\u0119 turbo?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"108","ESID":"47187","Parent":"107","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"106","ESID":"47187","Parent":"80","NodeType":"Conclusion","NodeName":"CONCEPT Elite Ionic Infrared Boost VV6030","NodeText":"CONCEPT Elite Ionic Infrared Boost VV6030","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"109","ESID":"47187","Parent":"107","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"110","ESID":"47187","Parent":"108","NodeType":"Attribute","NodeName":"Magnetyczne ko\u0144c\u00f3wki do stylizacji","NodeText":"Czy powinna posiada\u0107 magnetyczne ko\u0144c\u00f3wki do stylizacji?","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"111","ESID":"47187","Parent":"110","NodeType":"Value","NodeName":"Tak","NodeText":"Tak","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"112","ESID":"47187","Parent":"111","NodeType":"Conclusion","NodeName":"DYSON Supersonic\u2122 Nikiel-Mied\u017a","NodeText":"DYSON Supersonic\u2122 Nikiel-Mied\u017a","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"113","ESID":"47187","Parent":"110","NodeType":"Value","NodeName":"Nie","NodeText":"Nie","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"114","ESID":"47187","Parent":"113","NodeType":"Conclusion","NodeName":"SOOCAS RH1","NodeText":"SOOCAS RH1","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
+{"NodeID":"115","ESID":"47187","Parent":"109","NodeType":"Conclusion","NodeName":"DYSON Supersonic New Set Fuksja","NodeText":"DYSON Supersonic New Set Fuksja","NodeData":" ","NodeImage":" ","CertFactor":"1.00"}
